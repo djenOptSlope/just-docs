@@ -7,14 +7,12 @@ nav_order: 2
 # Configuration
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
+Just the Docs has some specific configuration parameters that can be defined in your Jekyll  
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+```console
+foo@bar:~$ whoami
+foo
+```
 
 ```markdown
 The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
