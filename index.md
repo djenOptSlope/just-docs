@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Interface
 layout: home
 ---
 
